@@ -1,18 +1,23 @@
-⚙️ Languages: C++ / Golang / Rust / JavaScript
+## 👋 I'm Kerolt
 
-🧠 Domains: Operating Systems / Cloud Native / Browser Internals
+**Systems Enthusiast | Performance Enthusiast | eBPF Explorer**
 
-🔍 What I care about:
+> I focused on low-level systems, observability, and high-performance engineering, and enjoy exploring the underlying principles of how things actually work.
 
-- Low-level systems & performance tuning
-- Runtime / scheduling / resource management
-- Distributed systems & cloud infrastructure
-- How things actually work under the hood
+⚙️ **Languages:** `C++` | `Rust` | `Go`
 
-🛠️ Style: Prefer correctness, clarity, and measurable performance
+🔬 **Interests:** Operating Systems, Runtime/Scheduling, Observability Tools.
 
-🏸 Off-keyboard: Badminton
+- 🧊 **Systems**: Deep diving into eBPF, OS kernels, runtimes, and resource scheduling.
+- ☁️ **Cloud Native**: Building high-availability distributed infrastructure.
+- 🔬 **Observability**: Implementing profiling, tracing, and performance toolchains.
 
-📫 Contact: kerolt@qq.com
+---
 
-🌐 Blog / Notes: https://kerolt.work
+🔥 Love things that are full of life and pursue freedom
+
+🏸 **Off-keyboard:** Badminton, Running
+
+📧 **Contact:** kerolt@qq.com
+
+🌐 **Blog / Notes:** [kerolt.work](https://kerolt.work)
