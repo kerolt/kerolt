@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Kerolt
 
-**Now I'm Interested in Agent Infra** — Focused on the systems that make agents run reliably: runtime, observability, and the layer underneath.
+For now and the near future, I'm digging into the space where agents meet the systems underneath — runtime, observability, sandboxing, and the parts of the stack that decide whether an agent actually works in production.
 
 - 🤖 **Agent Runtime**: harnesses, tool execution, provider failover
 - 📊 **Observability**: profiling, tracing, LLM-call telemetry
