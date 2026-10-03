@@ -1,29 +1,34 @@
 ## 👋 Hi, I'm Kerolt
 
-For now and the near future, I'm digging into the space where agents meet the systems underneath — runtime, observability, sandboxing, and the parts of the stack that decide whether an agent actually works in production.
+Exploring how agents and the systems underneath them fit together —
+runtimes, tool execution, observability, and the lower-level pieces that hold it all up.
 
-- 🤖 **Agent Runtime**: harnesses, tool execution, provider failover
-- 📊 **Observability**: profiling, tracing, LLM-call telemetry
-- ⚙️ **Systems**: eBPF, Linux, networking, sandboxing
+### Recent work
+
+Mostly learning by building. A few things I've been spending time on:
+
+| Project | Stack | What it is |
+| --- | --- | --- |
+| [`pi-one-ui`](https://github.com/kerolt/pi-one-ui) | TypeScript | A unified TUI extension package for [Pi](https://pi.dev), inspired by `pi-zentui` and `pi-cc-extensions`.  |
+| [`kubesock-lb`](https://github.com/kerolt/kubesock-lb) | Go · eBPF | An experiment in transparent Kubernetes traffic handling, rewriting Service VIPs to Pod IPs at the socket layer using `cgroup/connect4` hooks. |
+| [`profiler`](https://github.com/kerolt/profiler) | C++ · Rust | A small sampling profiler based on eBPF perf events, with symbolization via [`blazesym`](https://github.com/libbpf/blazesym) and output compatible with [FlameGraph](https://github.com/brendangregg/FlameGraph). |
+
+### Interested in
+
+- **Agentic System** — harnesses, tool execution, extension systems, sandboxing
+- **CloudNative** — Kubernetes, observability, service mesh
+- **OS** — eBPF, Linux, networking
 
 ---
 
-- 📫 How to reach me **kerolt@qq.com**
-- 📝 I regularly write articles on **[https://kerolt.work](https://kerolt.work)**
+- Feel free to reach me at **kerolt@qq.com**
+- I occasionally write things down at **[https://kerolt.work](https://kerolt.work)**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/hugo" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" alt="hugo" width="40" height="40"/> </a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,c,cpp,ts,py,rust" height="40" alt="Go C C++ TypeScript Python Rust" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nodejs,git,bash" height="40" alt="Linux Docker Kubernetes Node.js Git Bash" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,hugo,postman,redis" height="40" alt="Hugo PostgreSQL MySQL Redis" />
 </p>
